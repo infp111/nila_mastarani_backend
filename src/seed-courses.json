@@ -1,0 +1,1741 @@
+[
+  {
+    "slug": "english-etiquette",
+    "title": "English Etiquette",
+    "title_odia": "ଇଂରାଜୀ ଶିଷ୍ଟାଚାର",
+    "description": "Polite words and manners in English: greetings, please, thank you, sorry and excuse me.",
+    "category": "etiquette",
+    "level": "beginner",
+    "icon": "🙏",
+    "course_instructions": "Emphasise tone of voice and politeness. Explain when each phrase is used in Indian and international settings.",
+    "lessons": [
+      {
+        "title": "Greetings & Introductions",
+        "title_odia": "ଅଭିବାଦନ ଓ ପରିଚୟ",
+        "objective": "Greet people at different times of day and introduce yourself confidently.",
+        "key_phrases": [
+          {
+            "en": "Good morning! How are you?",
+            "or": "ସୁପ୍ରଭାତ! ଆପଣ କେମିତି ଅଛନ୍ତି?"
+          },
+          {
+            "en": "I'm fine, thank you. And you?",
+            "or": "ମୁଁ ଭଲ ଅଛି, ଧନ୍ୟବାଦ। ଆଉ ଆପଣ?"
+          },
+          {
+            "en": "My name is ... I am from Bhubaneswar.",
+            "or": "ମୋ ନାଁ ... ମୁଁ ଭୁବନେଶ୍ୱରରୁ।"
+          },
+          {
+            "en": "Nice to meet you.",
+            "or": "ଆପଣଙ୍କୁ ଭେଟି ଭଲ ଲାଗିଲା।"
+          }
+        ],
+        "vocabulary": [
+          {
+            "en": "introduce",
+            "or": "ପରିଚୟ ଦେବା"
+          },
+          {
+            "en": "pleasure",
+            "or": "ଆନନ୍ଦ"
+          }
+        ],
+        "roleplay_scenario": "You meet the learner at a friend's wedding. Start by greeting them and asking their name.",
+        "duration_min": 10
+      },
+      {
+        "title": "Please, Thank You & Sorry",
+        "title_odia": "ଦୟାକରି, ଧନ୍ୟବାଦ ଓ କ୍ଷମା",
+        "objective": "Use please, thank you, sorry and excuse me naturally in requests and apologies.",
+        "key_phrases": [
+          {
+            "en": "Could you please help me?",
+            "or": "ଦୟାକରି ମୋତେ ସାହାଯ୍ୟ କରିପାରିବେ କି?"
+          },
+          {
+            "en": "Thank you so much.",
+            "or": "ବହୁତ ଧନ୍ୟବାଦ।"
+          },
+          {
+            "en": "I'm sorry, I'm late.",
+            "or": "କ୍ଷମା କରିବେ, ମୁଁ ଡେରି କଲି।"
+          },
+          {
+            "en": "Excuse me, may I come in?",
+            "or": "କ୍ଷମା କରିବେ, ମୁଁ ଭିତରକୁ ଆସିପାରିବି କି?"
+          }
+        ],
+        "vocabulary": [
+          {
+            "en": "request",
+            "or": "ଅନୁରୋଧ"
+          },
+          {
+            "en": "apology",
+            "or": "କ୍ଷମା ପ୍ରାର୍ଥନା"
+          }
+        ],
+        "duration_min": 10
+      },
+      {
+        "title": "Table Manners & Phone Etiquette",
+        "title_odia": "ଖାଇବା ଓ ଫୋନ୍ ଶିଷ୍ଟାଚାର",
+        "objective": "Speak politely at a dining table and answer or end a phone call properly.",
+        "key_phrases": [
+          {
+            "en": "Could you pass the salt, please?",
+            "or": "ଦୟାକରି ଲୁଣ ଟିକେ ଦେବେ କି?"
+          },
+          {
+            "en": "Hello, this is ... speaking.",
+            "or": "ନମସ୍କାର, ମୁଁ ... କହୁଛି।"
+          },
+          {
+            "en": "May I know who is calling?",
+            "or": "କିଏ କହୁଛନ୍ତି ଜାଣିପାରେ କି?"
+          },
+          {
+            "en": "Thank you for calling. Have a nice day.",
+            "or": "ଫୋନ୍ କରିଥିବାରୁ ଧନ୍ୟବାଦ। ଦିନଟି ଭଲରେ କଟୁ।"
+          }
+        ],
+        "roleplay_scenario": "Phone call: you are calling the learner's office to ask for their manager.",
+        "duration_min": 12
+      }
+    ]
+  },
+  {
+    "slug": "pronunciation-for-odia-speakers",
+    "title": "Clear Pronunciation",
+    "title_odia": "ସ୍ପଷ୍ଟ ଉଚ୍ଚାରଣ",
+    "description": "Fix the English sounds Odia speakers find tricky: V and W, S and SH, Z, F, TH, and word stress.",
+    "category": "pronunciation",
+    "level": "beginner",
+    "icon": "🗣️",
+    "course_instructions": "The learner is an Odia speaker. Listen closely and correct pronunciation gently, one sound at a time. Common issues: V and W both said as 'bh'/'b'; S vs SH confusion; Z said as 'j'; F said as 'ph'; TH said as 't'/'d'; an extra vowel before S-clusters ('iskool' for school); every vowel pronounced fully instead of the weak schwa. Model the word slowly, ask them to repeat, then use it in a short sentence.",
+    "lessons": [
+      {
+        "title": "V and W Sounds",
+        "title_odia": "V ଓ W ଧ୍ୱନି",
+        "objective": "Say V (top teeth on lower lip) and W (rounded lips) clearly and tell them apart.",
+        "key_phrases": [
+          {
+            "en": "Very well, thank you.",
+            "or": "ବହୁତ ଭଲ, ଧନ୍ୟବାଦ।"
+          },
+          {
+            "en": "We went to the village on Wednesday.",
+            "or": "ଆମେ ବୁଧବାର ଦିନ ଗାଁକୁ ଗଲୁ।"
+          },
+          {
+            "en": "I want a glass of water.",
+            "or": "ମୋତେ ଗିଲାସେ ପାଣି ଦରକାର।"
+          },
+          {
+            "en": "The van is waiting.",
+            "or": "ଭ୍ୟାନଟି ଅପେକ୍ଷା କରୁଛି।"
+          }
+        ],
+        "vocabulary": [
+          {
+            "en": "vest / west",
+            "or": "ଗଞ୍ଜି / ପଶ୍ଚିମ"
+          },
+          {
+            "en": "vine / wine",
+            "or": "ଅଙ୍ଗୁର ଲତା / ମଦ"
+          },
+          {
+            "en": "voice",
+            "or": "ସ୍ୱର"
+          }
+        ],
+        "duration_min": 10,
+        "tutor_instructions": "Drill minimal pairs: vest/west, vine/wine, verse/worse. Show V = teeth touch lip, W = lips round like 'oo', no teeth."
+      },
+      {
+        "title": "S, SH and Z Sounds",
+        "title_odia": "S, SH ଓ Z ଧ୍ୱନି",
+        "objective": "Tell apart S, SH and Z, and stop saying Z as J.",
+        "key_phrases": [
+          {
+            "en": "She sells sea shells.",
+            "or": "ସେ ସମୁଦ୍ର ଶାମୁକା ବିକନ୍ତି।"
+          },
+          {
+            "en": "Please sit on the seat.",
+            "or": "ଦୟାକରି ସିଟ୍ ଉପରେ ବସନ୍ତୁ।"
+          },
+          {
+            "en": "The zoo is closed today.",
+            "or": "ଆଜି ଚିଡ଼ିଆଖାନା ବନ୍ଦ ଅଛି।"
+          },
+          {
+            "en": "I wash my shirt on Sunday.",
+            "or": "ମୁଁ ରବିବାର ମୋ ସାର୍ଟ ଧୁଏ।"
+          }
+        ],
+        "vocabulary": [
+          {
+            "en": "sip / ship",
+            "or": "ଚୁମୁକ / ଜାହାଜ"
+          },
+          {
+            "en": "zero",
+            "or": "ଶୂନ୍ୟ"
+          },
+          {
+            "en": "measure",
+            "or": "ମାପିବା"
+          }
+        ],
+        "duration_min": 10,
+        "tutor_instructions": "Z is a buzzing S, not J: zoo, zero, busy, easy. Drill sip/ship, sea/she, so/show."
+      },
+      {
+        "title": "F, TH and School-type Words",
+        "title_odia": "F, TH ଓ 'ସ୍କୁଲ୍' ପରି ଶବ୍ଦ",
+        "objective": "Say F and TH correctly and drop the extra vowel before words like school and station.",
+        "key_phrases": [
+          {
+            "en": "Thank you for the food.",
+            "or": "ଖାଦ୍ୟ ପାଇଁ ଧନ୍ୟବାଦ।"
+          },
+          {
+            "en": "I think this is the right one.",
+            "or": "ମୋର ମନେହୁଏ ଏଇଟା ଠିକ୍।"
+          },
+          {
+            "en": "My school is near the station.",
+            "or": "ମୋ ସ୍କୁଲ୍ ଷ୍ଟେସନ୍ ପାଖରେ।"
+          },
+          {
+            "en": "Please speak slowly.",
+            "or": "ଦୟାକରି ଧୀରେ କୁହନ୍ତୁ।"
+          }
+        ],
+        "vocabulary": [
+          {
+            "en": "three / tree",
+            "or": "ତିନି / ଗଛ"
+          },
+          {
+            "en": "fan / pan",
+            "or": "ପଙ୍ଖା / କଡ଼େଇ"
+          },
+          {
+            "en": "street",
+            "or": "ରାସ୍ତା"
+          }
+        ],
+        "duration_min": 10,
+        "tutor_instructions": "F = top teeth on lower lip with air, not 'ph'. TH = tongue tip between teeth (think, three) or voiced (this, the). School/station/speak start straight with S, never 'is-'."
+      },
+      {
+        "title": "Word Stress and Natural Rhythm",
+        "title_odia": "ଶବ୍ଦ ଉପରେ ଜୋର ଓ ସ୍ୱାଭାବିକ ଛନ୍ଦ",
+        "objective": "Stress the right syllable and use weak sounds so English sounds natural, not flat.",
+        "key_phrases": [
+          {
+            "en": "PHO-to-graph, pho-TO-gra-pher",
+            "or": "ଫଟୋଗ୍ରାଫ୍, ଫଟୋଗ୍ରାଫର୍"
+          },
+          {
+            "en": "I'm going to the MARket.",
+            "or": "ମୁଁ ବଜାରକୁ ଯାଉଛି।"
+          },
+          {
+            "en": "What do you WANT?",
+            "or": "ଆପଣ କ'ଣ ଚାହାଁନ୍ତି?"
+          },
+          {
+            "en": "It's a comFORTable room.",
+            "or": "ଏହା ଏକ ଆରାମଦାୟକ ଘର।"
+          }
+        ],
+        "vocabulary": [
+          {
+            "en": "syllable",
+            "or": "ଅକ୍ଷର ଖଣ୍ଡ"
+          },
+          {
+            "en": "stress",
+            "or": "ଜୋର"
+          },
+          {
+            "en": "rhythm",
+            "or": "ଛନ୍ଦ"
+          }
+        ],
+        "duration_min": 10,
+        "tutor_instructions": "Clap the syllables. Show that 'to', 'a', 'the', 'of' become weak (schwa). Common errors: deVElop, hoTEL, comFORTable (should be COMfortable)."
+      }
+    ]
+  },
+  {
+    "slug": "everyday-grammar-for-speaking",
+    "title": "Everyday Grammar for Speaking",
+    "title_odia": "କଥା କହିବା ପାଇଁ ଦୈନନ୍ଦିନ ବ୍ୟାକରଣ",
+    "description": "The grammar you actually need to speak: tenses, questions, a/an/the and common Indian-English mistakes.",
+    "category": "grammar",
+    "level": "beginner",
+    "icon": "🧩",
+    "course_instructions": "Teach grammar through speaking, never long rules. Give one short rule, two examples, then ask the learner to make their own sentence about their life. Correct mistakes by repeating the right version naturally.",
+    "lessons": [
+      {
+        "title": "Talking About Now and Habits",
+        "title_odia": "ଏବେ ଓ ଅଭ୍ୟାସ ବିଷୟରେ କହିବା",
+        "objective": "Use present simple for habits and present continuous for now.",
+        "key_phrases": [
+          {
+            "en": "I wake up at six every day.",
+            "or": "ମୁଁ ପ୍ରତିଦିନ ଛଅଟାରେ ଉଠେ।"
+          },
+          {
+            "en": "I am cooking right now.",
+            "or": "ମୁଁ ଏବେ ରାନ୍ଧୁଛି।"
+          },
+          {
+            "en": "She works in a bank.",
+            "or": "ସେ ଏକ ବ୍ୟାଙ୍କରେ କାମ କରନ୍ତି।"
+          },
+          {
+            "en": "What are you doing?",
+            "or": "ଆପଣ କ'ଣ କରୁଛନ୍ତି?"
+          }
+        ],
+        "vocabulary": [
+          {
+            "en": "always",
+            "or": "ସବୁବେଳେ"
+          },
+          {
+            "en": "usually",
+            "or": "ସାଧାରଣତଃ"
+          },
+          {
+            "en": "right now",
+            "or": "ଏହି ମୁହୂର୍ତ୍ତରେ"
+          }
+        ],
+        "duration_min": 10,
+        "tutor_instructions": "Watch for 'I am having a car' (should be 'I have a car') and missing -s: 'he work' → 'he works'."
+      },
+      {
+        "title": "Talking About Yesterday and Tomorrow",
+        "title_odia": "ଗତକାଲି ଓ ଆସନ୍ତାକାଲି ବିଷୟରେ କହିବା",
+        "objective": "Use past simple and 'going to' / 'will' to talk about past and future.",
+        "key_phrases": [
+          {
+            "en": "I went to Puri last week.",
+            "or": "ମୁଁ ଗତ ସପ୍ତାହରେ ପୁରୀ ଯାଇଥିଲି।"
+          },
+          {
+            "en": "Did you eat lunch?",
+            "or": "ଆପଣ ଦିନ ଖାଇବା ଖାଇଲେ କି?"
+          },
+          {
+            "en": "I'm going to visit my uncle tomorrow.",
+            "or": "ମୁଁ କାଲି ମୋ ମାମୁଁଙ୍କୁ ଦେଖା କରିବାକୁ ଯିବି।"
+          },
+          {
+            "en": "I'll call you later.",
+            "or": "ମୁଁ ଆପଣଙ୍କୁ ପରେ ଫୋନ୍ କରିବି।"
+          }
+        ],
+        "vocabulary": [
+          {
+            "en": "yesterday",
+            "or": "ଗତକାଲି"
+          },
+          {
+            "en": "tomorrow",
+            "or": "ଆସନ୍ତାକାଲି"
+          },
+          {
+            "en": "last week",
+            "or": "ଗତ ସପ୍ତାହ"
+          }
+        ],
+        "duration_min": 10,
+        "roleplay_scenario": "Ask the learner what they did last weekend and what they plan to do next weekend.",
+        "tutor_instructions": "Correct 'I have gone yesterday' → 'I went yesterday', and 'Did you went?' → 'Did you go?'."
+      },
+      {
+        "title": "Asking Questions Correctly",
+        "title_odia": "ସଠିକ୍ ଭାବେ ପ୍ରଶ୍ନ ପଚାରିବା",
+        "objective": "Form yes/no and wh- questions with the right word order.",
+        "key_phrases": [
+          {
+            "en": "Where do you live?",
+            "or": "ଆପଣ କେଉଁଠି ରୁହନ୍ତି?"
+          },
+          {
+            "en": "What time does the bus leave?",
+            "or": "ବସ୍ କେତେଟାରେ ଛାଡ଼େ?"
+          },
+          {
+            "en": "Can you help me?",
+            "or": "ଆପଣ ମୋତେ ସାହାଯ୍ୟ କରିପାରିବେ କି?"
+          },
+          {
+            "en": "Why are you late?",
+            "or": "ଆପଣ କାହିଁକି ଡେରି କଲେ?"
+          }
+        ],
+        "vocabulary": [
+          {
+            "en": "who",
+            "or": "କିଏ"
+          },
+          {
+            "en": "when",
+            "or": "କେବେ"
+          },
+          {
+            "en": "how much",
+            "or": "କେତେ"
+          }
+        ],
+        "duration_min": 10,
+        "tutor_instructions": "Common error: 'Where you are going?' → 'Where are you going?'. Practise by having the learner interview you."
+      },
+      {
+        "title": "A, An, The and Common Mistakes",
+        "title_odia": "A, An, The ଓ ସାଧାରଣ ଭୁଲ",
+        "objective": "Use articles correctly and avoid frequent Indian-English errors.",
+        "key_phrases": [
+          {
+            "en": "I saw an elephant.",
+            "or": "ମୁଁ ଗୋଟିଏ ହାତୀ ଦେଖିଲି।"
+          },
+          {
+            "en": "The sun is very hot today.",
+            "or": "ଆଜି ସୂର୍ଯ୍ୟ ବହୁତ ତାତିଛି।"
+          },
+          {
+            "en": "I'm a teacher.",
+            "or": "ମୁଁ ଜଣେ ଶିକ୍ଷକ।"
+          },
+          {
+            "en": "I discussed the plan with him.",
+            "or": "ମୁଁ ତାଙ୍କ ସହ ଯୋଜନା ବିଷୟରେ ଆଲୋଚନା କଲି।"
+          }
+        ],
+        "vocabulary": [
+          {
+            "en": "article",
+            "or": "ଉପପଦ"
+          },
+          {
+            "en": "mistake",
+            "or": "ଭୁଲ"
+          },
+          {
+            "en": "correct",
+            "or": "ଠିକ୍"
+          }
+        ],
+        "duration_min": 10,
+        "tutor_instructions": "Cover: 'discuss about' → 'discuss'; 'cousin brother' → 'cousin'; 'do one thing' → 'here's an idea'; 'today morning' → 'this morning'; 'I am having fever' → 'I have a fever'."
+      }
+    ]
+  },
+  {
+    "slug": "day-to-day-conversation",
+    "title": "Day-to-Day Conversation",
+    "title_odia": "ଦୈନନ୍ଦିନ କଥାବାର୍ତ୍ତା",
+    "description": "Everyday English for the market, travel, shops, doctors and making friends.",
+    "category": "daily",
+    "level": "beginner",
+    "icon": "🛒",
+    "lessons": [
+      {
+        "title": "At the Market",
+        "title_odia": "ବଜାରରେ",
+        "objective": "Ask prices, bargain politely and buy things in English.",
+        "key_phrases": [
+          {
+            "en": "How much is this?",
+            "or": "ଏହାର ଦାମ କେତେ?"
+          },
+          {
+            "en": "Can you give it for a little less?",
+            "or": "ଟିକେ କମ୍‌ରେ ଦେଇପାରିବେ କି?"
+          },
+          {
+            "en": "I'll take two kilos, please.",
+            "or": "ଦୁଇ କିଲୋ ଦିଅନ୍ତୁ।"
+          },
+          {
+            "en": "Do you accept UPI?",
+            "or": "ଆପଣ UPI ନିଅନ୍ତି କି?"
+          }
+        ],
+        "roleplay_scenario": "You are a vegetable seller at Unit-1 market. The learner wants to buy tomatoes and onions.",
+        "duration_min": 10
+      },
+      {
+        "title": "Asking for Directions",
+        "title_odia": "ରାସ୍ତା ପଚାରିବା",
+        "objective": "Ask for and understand directions, and take an auto or bus.",
+        "key_phrases": [
+          {
+            "en": "Excuse me, how do I get to the railway station?",
+            "or": "କ୍ଷମା କରିବେ, ରେଳ ଷ୍ଟେସନ କେମିତି ଯିବି?"
+          },
+          {
+            "en": "Go straight and take the second left.",
+            "or": "ସିଧା ଯାଆନ୍ତୁ, ଦ୍ୱିତୀୟ ବାମ ମୋଡ଼ ନିଅନ୍ତୁ।"
+          },
+          {
+            "en": "Is it far from here?",
+            "or": "ଏଠାରୁ ଦୂର କି?"
+          }
+        ],
+        "roleplay_scenario": "The learner is a tourist in Puri asking you, a local, for the way to the Jagannath Temple.",
+        "duration_min": 10
+      },
+      {
+        "title": "At the Doctor",
+        "title_odia": "ଡାକ୍ତରଖାନାରେ",
+        "objective": "Describe common symptoms and understand simple instructions.",
+        "key_phrases": [
+          {
+            "en": "I have had a fever since yesterday.",
+            "or": "କାଲିଠାରୁ ମୋତେ ଜ୍ୱର ହେଉଛି।"
+          },
+          {
+            "en": "I have a headache and a sore throat.",
+            "or": "ମୋର ମୁଣ୍ଡ ବିନ୍ଧୁଛି ଓ ଗଳା ଖରାପ।"
+          },
+          {
+            "en": "How many times a day should I take this?",
+            "or": "ଦିନକୁ କେତେଥର ଏହା ଖାଇବି?"
+          }
+        ],
+        "roleplay_scenario": "You are a doctor. The learner is a patient with a cold.",
+        "duration_min": 12
+      }
+    ]
+  },
+  {
+    "slug": "small-talk-and-making-friends",
+    "title": "Small Talk & Making Friends",
+    "title_odia": "ହାଲୁକା ଗପସପ ଓ ବନ୍ଧୁତା",
+    "description": "Start conversations, keep them going and talk about hobbies, weather, food and plans.",
+    "category": "daily",
+    "level": "beginner",
+    "icon": "☕",
+    "course_instructions": "Keep it friendly and relaxed. Teach the learner to ask follow-up questions and give answers longer than one word.",
+    "lessons": [
+      {
+        "title": "Starting a Conversation",
+        "title_odia": "କଥାବାର୍ତ୍ତା ଆରମ୍ଭ କରିବା",
+        "objective": "Open a chat with a stranger or a new classmate or colleague.",
+        "key_phrases": [
+          {
+            "en": "Hi, I don't think we've met. I'm ...",
+            "or": "ନମସ୍କାର, ବୋଧହୁଏ ଆମେ ଆଗରୁ ଭେଟିନାହୁଁ। ମୁଁ ..."
+          },
+          {
+            "en": "Lovely weather today, isn't it?",
+            "or": "ଆଜି ପାଗ ବହୁତ ସୁନ୍ଦର, ନୁହେଁ କି?"
+          },
+          {
+            "en": "How do you know the host?",
+            "or": "ଆପଣ ଆୟୋଜକଙ୍କୁ କିପରି ଜାଣନ୍ତି?"
+          },
+          {
+            "en": "So, what do you do?",
+            "or": "ଆଚ୍ଛା, ଆପଣ କ'ଣ କାମ କରନ୍ତି?"
+          }
+        ],
+        "vocabulary": [
+          {
+            "en": "stranger",
+            "or": "ଅଚିହ୍ନା ଲୋକ"
+          },
+          {
+            "en": "colleague",
+            "or": "ସହକର୍ମୀ"
+          }
+        ],
+        "duration_min": 10,
+        "roleplay_scenario": "You are standing next to the learner at a tea stall at a college event. Start chatting."
+      },
+      {
+        "title": "Hobbies and Free Time",
+        "title_odia": "ସଉକ ଓ ଅବସର ସମୟ",
+        "objective": "Talk about what you like doing and ask others about their interests.",
+        "key_phrases": [
+          {
+            "en": "What do you do in your free time?",
+            "or": "ଅବସର ସମୟରେ ଆପଣ କ'ଣ କରନ୍ତି?"
+          },
+          {
+            "en": "I love watching cricket.",
+            "or": "ମୋତେ କ୍ରିକେଟ୍ ଦେଖିବାକୁ ବହୁତ ଭଲ ଲାଗେ।"
+          },
+          {
+            "en": "I'm really into cooking these days.",
+            "or": "ଆଜିକାଲି ମୋର ରୋଷେଇରେ ବହୁତ ଆଗ୍ରହ।"
+          },
+          {
+            "en": "Me too! / Oh, I'm not a big fan.",
+            "or": "ମୋର ବି! / ଓହୋ, ମୋତେ ସେତେ ଭଲ ଲାଗେନି।"
+          }
+        ],
+        "vocabulary": [
+          {
+            "en": "hobby",
+            "or": "ସଉକ"
+          },
+          {
+            "en": "interested in",
+            "or": "ଆଗ୍ରହୀ"
+          },
+          {
+            "en": "weekend",
+            "or": "ସପ୍ତାହାନ୍ତ"
+          }
+        ],
+        "duration_min": 10
+      },
+      {
+        "title": "Keeping the Conversation Going",
+        "title_odia": "କଥାବାର୍ତ୍ତା ଚାଲୁ ରଖିବା",
+        "objective": "Use follow-up questions and reactions so a chat doesn't die.",
+        "key_phrases": [
+          {
+            "en": "Really? Tell me more.",
+            "or": "ସତରେ? ଆଉ ଟିକେ କୁହନ୍ତୁ।"
+          },
+          {
+            "en": "That sounds amazing!",
+            "or": "ଏହା ତ ଚମତ୍କାର ଲାଗୁଛି!"
+          },
+          {
+            "en": "How did you get into that?",
+            "or": "ଆପଣ ଏଥିରେ କିପରି ଆସିଲେ?"
+          },
+          {
+            "en": "It was great talking to you.",
+            "or": "ଆପଣଙ୍କ ସହ କଥା ହୋଇ ବହୁତ ଭଲ ଲାଗିଲା।"
+          }
+        ],
+        "vocabulary": [
+          {
+            "en": "follow-up",
+            "or": "ପରବର୍ତ୍ତୀ ପ୍ରଶ୍ନ"
+          },
+          {
+            "en": "react",
+            "or": "ପ୍ରତିକ୍ରିୟା ଦେବା"
+          }
+        ],
+        "duration_min": 10,
+        "tutor_instructions": "Whenever the learner gives a one-word answer, prompt them to add a reason and a question back."
+      }
+    ]
+  },
+  {
+    "slug": "shopping-travel-directions",
+    "title": "Shopping, Travel & Directions",
+    "title_odia": "କିଣାକିଣି, ଯାତ୍ରା ଓ ବାଟ ପଚାରିବା",
+    "description": "Buy things, ask prices, book tickets, take autos and trains, and ask for or give directions.",
+    "category": "daily",
+    "level": "beginner",
+    "icon": "🛍️",
+    "course_instructions": "Use realistic Indian settings: a mall, a market, a railway station, an airport, an auto-rickshaw.",
+    "lessons": [
+      {
+        "title": "At the Shop",
+        "title_odia": "ଦୋକାନରେ",
+        "objective": "Ask for items, sizes and prices, and pay politely.",
+        "key_phrases": [
+          {
+            "en": "How much is this?",
+            "or": "ଏହାର ଦାମ୍ କେତେ?"
+          },
+          {
+            "en": "Do you have this in a bigger size?",
+            "or": "ଏହା ବଡ଼ ସାଇଜ୍‌ରେ ଅଛି କି?"
+          },
+          {
+            "en": "Can I try it on?",
+            "or": "ମୁଁ ଏହାକୁ ପିନ୍ଧି ଦେଖିପାରିବି କି?"
+          },
+          {
+            "en": "Can I pay by UPI?",
+            "or": "ମୁଁ UPI ରେ ପଇସା ଦେଇପାରିବି କି?"
+          }
+        ],
+        "vocabulary": [
+          {
+            "en": "discount",
+            "or": "ରିହାତି"
+          },
+          {
+            "en": "receipt",
+            "or": "ରସିଦ"
+          },
+          {
+            "en": "exchange",
+            "or": "ବଦଳାଇବା"
+          }
+        ],
+        "duration_min": 10,
+        "roleplay_scenario": "You are a shopkeeper in a clothes shop. The learner wants to buy a shirt."
+      },
+      {
+        "title": "Tickets and Transport",
+        "title_odia": "ଟିକେଟ୍ ଓ ଯାତାୟାତ",
+        "objective": "Book tickets and travel by train, bus, flight or auto.",
+        "key_phrases": [
+          {
+            "en": "One ticket to Cuttack, please.",
+            "or": "ଦୟାକରି କଟକ ପାଇଁ ଗୋଟିଏ ଟିକେଟ୍।"
+          },
+          {
+            "en": "Which platform does the train leave from?",
+            "or": "ଟ୍ରେନ୍ କେଉଁ ପ୍ଲାଟଫର୍ମରୁ ଛାଡ଼ିବ?"
+          },
+          {
+            "en": "Is this seat taken?",
+            "or": "ଏହି ସିଟ୍‌ରେ କେହି ବସିଛନ୍ତି କି?"
+          },
+          {
+            "en": "Please take me to the airport.",
+            "or": "ଦୟାକରି ମୋତେ ଏୟାରପୋର୍ଟ ନେଇଯାଆନ୍ତୁ।"
+          }
+        ],
+        "vocabulary": [
+          {
+            "en": "platform",
+            "or": "ପ୍ଲାଟଫର୍ମ"
+          },
+          {
+            "en": "departure",
+            "or": "ପ୍ରସ୍ଥାନ"
+          },
+          {
+            "en": "delayed",
+            "or": "ବିଳମ୍ବିତ"
+          }
+        ],
+        "duration_min": 10,
+        "roleplay_scenario": "You are a ticket counter clerk at Bhubaneswar railway station."
+      },
+      {
+        "title": "Asking and Giving Directions",
+        "title_odia": "ବାଟ ପଚାରିବା ଓ ଦେଖାଇବା",
+        "objective": "Ask the way and understand or give simple directions.",
+        "key_phrases": [
+          {
+            "en": "Excuse me, how do I get to the bus stand?",
+            "or": "କ୍ଷମା କରିବେ, ବସ୍ ଷ୍ଟାଣ୍ଡ କିପରି ଯିବି?"
+          },
+          {
+            "en": "Go straight and take the second left.",
+            "or": "ସିଧା ଯାଆନ୍ତୁ ଓ ଦ୍ୱିତୀୟ ବାମ ମୋଡ଼ ନିଅନ୍ତୁ।"
+          },
+          {
+            "en": "It's opposite the hospital.",
+            "or": "ଏହା ହସ୍ପିଟାଲ୍ ସାମ୍ନାରେ।"
+          },
+          {
+            "en": "Is it far from here?",
+            "or": "ଏଠାରୁ ଦୂର କି?"
+          }
+        ],
+        "vocabulary": [
+          {
+            "en": "opposite",
+            "or": "ସାମ୍ନାରେ"
+          },
+          {
+            "en": "next to",
+            "or": "ପାଖରେ"
+          },
+          {
+            "en": "turn",
+            "or": "ମୋଡ଼ିବା"
+          }
+        ],
+        "duration_min": 10,
+        "roleplay_scenario": "The learner is lost in a new city and asks you, a local, for directions to the museum."
+      }
+    ]
+  },
+  {
+    "slug": "health-and-emergencies",
+    "title": "Health & Emergencies",
+    "title_odia": "ସ୍ୱାସ୍ଥ୍ୟ ଓ ଜରୁରୀ ପରିସ୍ଥିତି",
+    "description": "Describe symptoms to a doctor, buy medicine, and ask for help in an emergency.",
+    "category": "daily",
+    "level": "beginner",
+    "icon": "🩺",
+    "course_instructions": "Keep a calm, reassuring tone. Teach body parts and symptom words in context.",
+    "lessons": [
+      {
+        "title": "At the Doctor's",
+        "title_odia": "ଡାକ୍ତରଙ୍କ ପାଖରେ",
+        "objective": "Explain how you feel and understand basic advice.",
+        "key_phrases": [
+          {
+            "en": "I have a headache and a fever.",
+            "or": "ମୋର ମୁଣ୍ଡବିନ୍ଧା ଓ ଜ୍ୱର ହେଉଛି।"
+          },
+          {
+            "en": "It started two days ago.",
+            "or": "ଏହା ଦୁଇ ଦିନ ଆଗରୁ ଆରମ୍ଭ ହେଲା।"
+          },
+          {
+            "en": "It hurts here.",
+            "or": "ଏଠାରେ ଯନ୍ତ୍ରଣା ହେଉଛି।"
+          },
+          {
+            "en": "How many times a day should I take this?",
+            "or": "ଏହାକୁ ଦିନକୁ କେତେଥର ଖାଇବି?"
+          }
+        ],
+        "vocabulary": [
+          {
+            "en": "symptom",
+            "or": "ଲକ୍ଷଣ"
+          },
+          {
+            "en": "prescription",
+            "or": "ଔଷଧ ପତ୍ର"
+          },
+          {
+            "en": "cough",
+            "or": "କାଶ"
+          }
+        ],
+        "duration_min": 10,
+        "roleplay_scenario": "You are a doctor at a clinic. The learner comes in feeling unwell.",
+        "tutor_instructions": "Correct 'I am having fever' → 'I have a fever', 'My head is paining' → 'My head hurts' / 'I have a headache'."
+      },
+      {
+        "title": "At the Pharmacy",
+        "title_odia": "ଔଷଧ ଦୋକାନରେ",
+        "objective": "Ask for medicine and understand how to take it.",
+        "key_phrases": [
+          {
+            "en": "Do you have something for a cold?",
+            "or": "ଥଣ୍ଡା ପାଇଁ କିଛି ଔଷଧ ଅଛି କି?"
+          },
+          {
+            "en": "Should I take it before or after food?",
+            "or": "ଏହା ଖାଇବା ଆଗରୁ ନା ପରେ ଖାଇବି?"
+          },
+          {
+            "en": "Are there any side effects?",
+            "or": "ଏହାର କିଛି ପାର୍ଶ୍ୱ ପ୍ରତିକ୍ରିୟା ଅଛି କି?"
+          },
+          {
+            "en": "Here is my prescription.",
+            "or": "ଏହା ମୋର ଔଷଧ ପତ୍ର।"
+          }
+        ],
+        "vocabulary": [
+          {
+            "en": "tablet",
+            "or": "ଟାବଲେଟ୍"
+          },
+          {
+            "en": "dose",
+            "or": "ମାତ୍ରା"
+          },
+          {
+            "en": "side effect",
+            "or": "ପାର୍ଶ୍ୱ ପ୍ରତିକ୍ରିୟା"
+          }
+        ],
+        "duration_min": 10
+      },
+      {
+        "title": "Emergencies",
+        "title_odia": "ଜରୁରୀ ପରିସ୍ଥିତି",
+        "objective": "Ask for urgent help clearly and quickly.",
+        "key_phrases": [
+          {
+            "en": "Help! Please call an ambulance.",
+            "or": "ସାହାଯ୍ୟ କରନ୍ତୁ! ଦୟାକରି ଆମ୍ବୁଲାନ୍ସ ଡାକନ୍ତୁ।"
+          },
+          {
+            "en": "There's been an accident.",
+            "or": "ଏକ ଦୁର୍ଘଟଣା ଘଟିଛି।"
+          },
+          {
+            "en": "I've lost my wallet.",
+            "or": "ମୋ ପର୍ସ ହଜିଯାଇଛି।"
+          },
+          {
+            "en": "Where is the nearest police station?",
+            "or": "ନିକଟତମ ଥାନା କେଉଁଠି?"
+          }
+        ],
+        "vocabulary": [
+          {
+            "en": "emergency",
+            "or": "ଜରୁରୀ ଅବସ୍ଥା"
+          },
+          {
+            "en": "injured",
+            "or": "ଆହତ"
+          },
+          {
+            "en": "urgent",
+            "or": "ଜରୁରୀ"
+          }
+        ],
+        "duration_min": 10,
+        "roleplay_scenario": "You are a police officer at a help desk. The learner reports a lost phone."
+      }
+    ]
+  },
+  {
+    "slug": "bank-office-and-services",
+    "title": "Bank, Office & Public Services",
+    "title_odia": "ବ୍ୟାଙ୍କ, ଅଫିସ୍ ଓ ସରକାରୀ ସେବା",
+    "description": "Handle banks, post offices, government counters and customer-care calls with confidence.",
+    "category": "daily",
+    "level": "intermediate",
+    "icon": "🏦",
+    "course_instructions": "Practise polite, clear requests and how to ask someone to repeat or explain.",
+    "lessons": [
+      {
+        "title": "At the Bank",
+        "title_odia": "ବ୍ୟାଙ୍କରେ",
+        "objective": "Open an account, deposit money and ask about services.",
+        "key_phrases": [
+          {
+            "en": "I'd like to open a savings account.",
+            "or": "ମୁଁ ଏକ ସଞ୍ଚୟ ଖାତା ଖୋଲିବାକୁ ଚାହେଁ।"
+          },
+          {
+            "en": "What documents do I need?",
+            "or": "ମୋତେ କେଉଁ କାଗଜପତ୍ର ଦରକାର?"
+          },
+          {
+            "en": "I want to update my mobile number.",
+            "or": "ମୁଁ ମୋ ମୋବାଇଲ୍ ନମ୍ବର ବଦଳାଇବାକୁ ଚାହେଁ।"
+          },
+          {
+            "en": "My card is blocked.",
+            "or": "ମୋ କାର୍ଡ ବ୍ଲକ୍ ହୋଇଯାଇଛି।"
+          }
+        ],
+        "vocabulary": [
+          {
+            "en": "account",
+            "or": "ଖାତା"
+          },
+          {
+            "en": "deposit",
+            "or": "ଜମା"
+          },
+          {
+            "en": "withdraw",
+            "or": "ଉଠାଇବା"
+          }
+        ],
+        "duration_min": 10,
+        "roleplay_scenario": "You are a bank officer. The learner wants to open an account."
+      },
+      {
+        "title": "Forms and Government Offices",
+        "title_odia": "ଫର୍ମ ଓ ସରକାରୀ କାର୍ଯ୍ୟାଳୟ",
+        "objective": "Ask for help with forms and procedures.",
+        "key_phrases": [
+          {
+            "en": "Could you tell me how to fill this form?",
+            "or": "ଏହି ଫର୍ମ କିପରି ଭରିବି ଦୟାକରି କହିବେ କି?"
+          },
+          {
+            "en": "Which counter should I go to?",
+            "or": "ମୁଁ କେଉଁ କାଉଣ୍ଟରକୁ ଯିବି?"
+          },
+          {
+            "en": "How long will it take?",
+            "or": "କେତେ ସମୟ ଲାଗିବ?"
+          },
+          {
+            "en": "Could you repeat that, please?",
+            "or": "ଦୟାକରି ଆଉ ଥରେ କହିବେ କି?"
+          }
+        ],
+        "vocabulary": [
+          {
+            "en": "application",
+            "or": "ଆବେଦନ"
+          },
+          {
+            "en": "signature",
+            "or": "ଦସ୍ତଖତ"
+          },
+          {
+            "en": "queue",
+            "or": "ଧାଡ଼ି"
+          }
+        ],
+        "duration_min": 10
+      },
+      {
+        "title": "Customer-Care Calls",
+        "title_odia": "ଗ୍ରାହକ ସେବା କଲ୍",
+        "objective": "Explain a problem on the phone and ask for a solution.",
+        "key_phrases": [
+          {
+            "en": "I'm calling about my internet connection.",
+            "or": "ମୁଁ ମୋ ଇଣ୍ଟରନେଟ୍ ସଂଯୋଗ ବିଷୟରେ ଫୋନ୍ କରୁଛି।"
+          },
+          {
+            "en": "It hasn't been working since yesterday.",
+            "or": "ଏହା ଗତକାଲିଠାରୁ କାମ କରୁନାହିଁ।"
+          },
+          {
+            "en": "Can I get a refund?",
+            "or": "ମୁଁ ପଇସା ଫେରସ୍ତ ପାଇପାରିବି କି?"
+          },
+          {
+            "en": "Could I have a complaint number?",
+            "or": "ମୋତେ ଏକ ଅଭିଯୋଗ ନମ୍ବର ଦେଇପାରିବେ କି?"
+          }
+        ],
+        "vocabulary": [
+          {
+            "en": "complaint",
+            "or": "ଅଭିଯୋଗ"
+          },
+          {
+            "en": "refund",
+            "or": "ଫେରସ୍ତ"
+          },
+          {
+            "en": "technician",
+            "or": "ମିସ୍ତ୍ରୀ"
+          }
+        ],
+        "duration_min": 10,
+        "roleplay_scenario": "You are a customer-care agent for a mobile company. The learner's recharge failed."
+      }
+    ]
+  },
+  {
+    "slug": "formal-conversation",
+    "title": "Formal Conversation",
+    "title_odia": "ଔପଚାରିକ କଥାବାର୍ତ୍ତା",
+    "description": "Professional English for interviews, offices, meetings and customer conversations.",
+    "category": "formal",
+    "level": "intermediate",
+    "icon": "💼",
+    "course_instructions": "Use a professional register. Point out the difference between casual and formal versions of the same sentence.",
+    "lessons": [
+      {
+        "title": "Job Interview Basics",
+        "title_odia": "ଚାକିରି ସାକ୍ଷାତକାର",
+        "objective": "Answer 'Tell me about yourself' and common interview questions with confidence.",
+        "key_phrases": [
+          {
+            "en": "Thank you for giving me this opportunity.",
+            "or": "ମୋତେ ଏହି ସୁଯୋଗ ଦେଇଥିବାରୁ ଧନ୍ୟବାଦ।"
+          },
+          {
+            "en": "I have completed my graduation in commerce.",
+            "or": "ମୁଁ କମର୍ସରେ ସ୍ନାତକ ସମ୍ପୂର୍ଣ୍ଣ କରିଛି।"
+          },
+          {
+            "en": "My strength is that I learn quickly.",
+            "or": "ମୋର ଶକ୍ତି ହେଲା ମୁଁ ଶୀଘ୍ର ଶିଖେ।"
+          }
+        ],
+        "roleplay_scenario": "You are an HR manager interviewing the learner for a customer-support job. Ask 4-5 questions, one at a time, then give feedback.",
+        "duration_min": 15
+      },
+      {
+        "title": "Office Communication",
+        "title_odia": "ଅଫିସ୍ କଥାବାର୍ତ୍ତା",
+        "objective": "Ask for leave, give updates and speak to seniors politely.",
+        "key_phrases": [
+          {
+            "en": "Could I take leave tomorrow? I have a family function.",
+            "or": "କାଲି ଛୁଟି ନେଇପାରିବି କି? ଘରେ ଏକ କାର୍ଯ୍ୟକ୍ରମ ଅଛି।"
+          },
+          {
+            "en": "I will complete the report by this evening.",
+            "or": "ମୁଁ ଆଜି ସନ୍ଧ୍ୟା ସୁଦ୍ଧା ରିପୋର୍ଟ ସମ୍ପୂର୍ଣ୍ଣ କରିବି।"
+          },
+          {
+            "en": "Could you please clarify this point?",
+            "or": "ଦୟାକରି ଏହି କଥାଟି ସ୍ପଷ୍ଟ କରିବେ କି?"
+          }
+        ],
+        "duration_min": 12
+      },
+      {
+        "title": "Meetings & Presentations",
+        "title_odia": "ବୈଠକ ଓ ଉପସ୍ଥାପନା",
+        "objective": "Start a meeting, share an opinion, agree and disagree politely.",
+        "key_phrases": [
+          {
+            "en": "Shall we begin?",
+            "or": "ଆମେ ଆରମ୍ଭ କରିବା କି?"
+          },
+          {
+            "en": "In my opinion, we should ...",
+            "or": "ମୋ ମତରେ, ଆମେ ... କରିବା ଉଚିତ।"
+          },
+          {
+            "en": "I see your point, but ...",
+            "or": "ଆପଣଙ୍କ କଥା ବୁଝିଲି, କିନ୍ତୁ ..."
+          }
+        ],
+        "duration_min": 15
+      }
+    ]
+  },
+  {
+    "slug": "job-interview-english",
+    "title": "Job Interview English",
+    "title_odia": "ଚାକିରି ସାକ୍ଷାତକାର ଇଂରାଜୀ",
+    "description": "Introduce yourself, talk about strengths and experience, and answer common interview questions.",
+    "category": "career",
+    "level": "intermediate",
+    "icon": "💼",
+    "course_instructions": "Act as a friendly but professional interviewer. After each answer, give brief feedback on content, grammar and confidence, then suggest a stronger version.",
+    "lessons": [
+      {
+        "title": "Tell Me About Yourself",
+        "title_odia": "ନିଜ ବିଷୟରେ କୁହନ୍ତୁ",
+        "objective": "Give a clear 60-second self-introduction.",
+        "key_phrases": [
+          {
+            "en": "I recently completed my B.Tech in Computer Science.",
+            "or": "ମୁଁ ନିକଟରେ କମ୍ପ୍ୟୁଟର ସାଇନ୍ସରେ B.Tech ସମାପ୍ତ କରିଛି।"
+          },
+          {
+            "en": "I have two years of experience in sales.",
+            "or": "ମୋର ବିକ୍ରିରେ ଦୁଇ ବର୍ଷର ଅଭିଜ୍ଞତା ଅଛି।"
+          },
+          {
+            "en": "I'm passionate about solving problems.",
+            "or": "ମୁଁ ସମସ୍ୟା ସମାଧାନ କରିବାକୁ ବହୁତ ଭଲ ପାଏ।"
+          },
+          {
+            "en": "That's why I applied for this role.",
+            "or": "ସେଥିପାଇଁ ମୁଁ ଏହି ପଦ ପାଇଁ ଆବେଦନ କରିଛି।"
+          }
+        ],
+        "vocabulary": [
+          {
+            "en": "experience",
+            "or": "ଅଭିଜ୍ଞତା"
+          },
+          {
+            "en": "qualification",
+            "or": "ଯୋଗ୍ୟତା"
+          },
+          {
+            "en": "role",
+            "or": "ପଦ"
+          }
+        ],
+        "duration_min": 10,
+        "roleplay_scenario": "Start the interview: 'Good morning, please have a seat. Tell me about yourself.'",
+        "tutor_instructions": "Coach the structure: present (who I am) → past (education/experience) → future (why this job). Discourage reciting family details."
+      },
+      {
+        "title": "Strengths, Weaknesses and Goals",
+        "title_odia": "ଶକ୍ତି, ଦୁର୍ବଳତା ଓ ଲକ୍ଷ୍ୟ",
+        "objective": "Answer the classic questions honestly and confidently.",
+        "key_phrases": [
+          {
+            "en": "One of my strengths is that I learn quickly.",
+            "or": "ମୋର ଗୋଟିଏ ଶକ୍ତି ହେଉଛି ମୁଁ ଶୀଘ୍ର ଶିଖେ।"
+          },
+          {
+            "en": "I'm working on my public speaking.",
+            "or": "ମୁଁ ମୋ ଜନସମକ୍ଷରେ କହିବା ଦକ୍ଷତା ଉପରେ କାମ କରୁଛି।"
+          },
+          {
+            "en": "In five years, I see myself leading a team.",
+            "or": "ପାଞ୍ଚ ବର୍ଷରେ ମୁଁ ନିଜକୁ ଏକ ଦଳର ନେତୃତ୍ୱ ନେଉଥିବା ଦେଖେ।"
+          },
+          {
+            "en": "For example, in my last project ...",
+            "or": "ଉଦାହରଣ ସ୍ୱରୂପ, ମୋ ଗତ ପ୍ରୋଜେକ୍ଟରେ ..."
+          }
+        ],
+        "vocabulary": [
+          {
+            "en": "strength",
+            "or": "ଶକ୍ତି"
+          },
+          {
+            "en": "weakness",
+            "or": "ଦୁର୍ବଳତା"
+          },
+          {
+            "en": "goal",
+            "or": "ଲକ୍ଷ୍ୟ"
+          }
+        ],
+        "duration_min": 10
+      },
+      {
+        "title": "Situational Questions and Closing",
+        "title_odia": "ପରିସ୍ଥିତି ପ୍ରଶ୍ନ ଓ ସମାପ୍ତି",
+        "objective": "Answer 'tell me about a time' questions and end the interview well.",
+        "key_phrases": [
+          {
+            "en": "I faced a challenge when ...",
+            "or": "ମୁଁ ଏକ ଅସୁବିଧାର ସମ୍ମୁଖୀନ ହେଲି ଯେତେବେଳେ ..."
+          },
+          {
+            "en": "I handled it by ...",
+            "or": "ମୁଁ ଏହାକୁ ... କରି ସମ୍ଭାଳିଲି।"
+          },
+          {
+            "en": "Do you have any questions for us? — Yes, what does a typical day look like?",
+            "or": "ଆପଣଙ୍କର କିଛି ପ୍ରଶ୍ନ ଅଛି କି? — ହଁ, ଜଣଙ୍କର ସାଧାରଣ ଦିନ କିପରି ହୁଏ?"
+          },
+          {
+            "en": "Thank you for your time.",
+            "or": "ଆପଣଙ୍କ ସମୟ ପାଇଁ ଧନ୍ୟବାଦ।"
+          }
+        ],
+        "vocabulary": [
+          {
+            "en": "challenge",
+            "or": "ଆହ୍ୱାନ"
+          },
+          {
+            "en": "result",
+            "or": "ଫଳାଫଳ"
+          },
+          {
+            "en": "teamwork",
+            "or": "ଦଳଗତ କାମ"
+          }
+        ],
+        "duration_min": 10,
+        "tutor_instructions": "Teach the STAR method: Situation, Task, Action, Result. Ask one situational question and coach the answer."
+      }
+    ]
+  },
+  {
+    "slug": "workplace-english",
+    "title": "Workplace English",
+    "title_odia": "କାର୍ଯ୍ୟସ୍ଥଳୀ ଇଂରାଜୀ",
+    "description": "Speak up in meetings, make work calls, ask for leave and talk with your manager and clients.",
+    "category": "career",
+    "level": "intermediate",
+    "icon": "🏢",
+    "course_instructions": "Use office scenarios. Encourage polite, direct language, and replace overly formal Indian-English phrases with natural ones.",
+    "lessons": [
+      {
+        "title": "Meetings",
+        "title_odia": "ବୈଠକ",
+        "objective": "Share updates, give opinions and ask questions in a meeting.",
+        "key_phrases": [
+          {
+            "en": "Can I add something here?",
+            "or": "ମୁଁ ଏଠାରେ କିଛି ଯୋଡ଼ିପାରିବି କି?"
+          },
+          {
+            "en": "Here's a quick update on my work.",
+            "or": "ମୋ କାମର ଏକ ସଂକ୍ଷିପ୍ତ ଅପଡେଟ୍ ଦେଉଛି।"
+          },
+          {
+            "en": "Sorry, could you explain that again?",
+            "or": "କ୍ଷମା କରିବେ, ଆଉ ଥରେ ବୁଝାଇ ପାରିବେ କି?"
+          },
+          {
+            "en": "I'll get back to you by Friday.",
+            "or": "ମୁଁ ଶୁକ୍ରବାର ସୁଦ୍ଧା ଆପଣଙ୍କୁ ଜଣାଇବି।"
+          }
+        ],
+        "vocabulary": [
+          {
+            "en": "deadline",
+            "or": "ଶେଷ ସମୟସୀମା"
+          },
+          {
+            "en": "agenda",
+            "or": "କାର୍ଯ୍ୟସୂଚୀ"
+          },
+          {
+            "en": "update",
+            "or": "ଅପଡେଟ୍"
+          }
+        ],
+        "duration_min": 10,
+        "roleplay_scenario": "You are the team lead running a weekly meeting. Ask the learner for their update."
+      },
+      {
+        "title": "Phone and Video Calls",
+        "title_odia": "ଫୋନ୍ ଓ ଭିଡିଓ କଲ୍",
+        "objective": "Handle work calls professionally, including bad connections.",
+        "key_phrases": [
+          {
+            "en": "Hi, am I audible?",
+            "or": "ନମସ୍କାର, ମୋ କଥା ଶୁଭୁଛି କି?"
+          },
+          {
+            "en": "Sorry, you're breaking up.",
+            "or": "କ୍ଷମା କରିବେ, ଆପଣଙ୍କ ସ୍ୱର କଟିଯାଉଛି।"
+          },
+          {
+            "en": "Let me share my screen.",
+            "or": "ମୁଁ ମୋ ସ୍କ୍ରିନ୍ ସେୟାର କରୁଛି।"
+          },
+          {
+            "en": "Shall we schedule a follow-up call?",
+            "or": "ଆମେ ଆଉ ଏକ କଲ୍ ସ୍ଥିର କରିବା କି?"
+          }
+        ],
+        "vocabulary": [
+          {
+            "en": "mute",
+            "or": "ମ୍ୟୁଟ୍"
+          },
+          {
+            "en": "schedule",
+            "or": "ସମୟ ସ୍ଥିର କରିବା"
+          },
+          {
+            "en": "connection",
+            "or": "ସଂଯୋଗ"
+          }
+        ],
+        "duration_min": 10,
+        "tutor_instructions": "Teach 'Can you hear me?' as the more natural alternative to 'Am I audible?'."
+      },
+      {
+        "title": "Talking to Your Manager",
+        "title_odia": "ମ୍ୟାନେଜରଙ୍କ ସହ କଥା",
+        "objective": "Ask for leave, report problems and request help politely.",
+        "key_phrases": [
+          {
+            "en": "Could I take leave on Monday?",
+            "or": "ମୁଁ ସୋମବାର ଛୁଟି ନେଇପାରିବି କି?"
+          },
+          {
+            "en": "I'm stuck on this task. Could you help?",
+            "or": "ମୁଁ ଏହି କାମରେ ଅଟକି ଯାଇଛି। ସାହାଯ୍ୟ କରିପାରିବେ କି?"
+          },
+          {
+            "en": "I need a bit more time to finish this.",
+            "or": "ଏହା ଶେଷ କରିବାକୁ ମୋତେ ଆଉ ଟିକେ ସମୟ ଦରକାର।"
+          },
+          {
+            "en": "Thanks for the feedback.",
+            "or": "ମତାମତ ପାଇଁ ଧନ୍ୟବାଦ।"
+          }
+        ],
+        "vocabulary": [
+          {
+            "en": "leave",
+            "or": "ଛୁଟି"
+          },
+          {
+            "en": "feedback",
+            "or": "ମତାମତ"
+          },
+          {
+            "en": "priority",
+            "or": "ପ୍ରାଥମିକତା"
+          }
+        ],
+        "duration_min": 10,
+        "roleplay_scenario": "You are the learner's manager. The learner needs two days off for a family function.",
+        "tutor_instructions": "Replace 'Kindly do the needful' and 'Please revert' with 'Could you please ...' and 'Please let me know'."
+      }
+    ]
+  },
+  {
+    "slug": "opinions-and-storytelling",
+    "title": "Opinions & Storytelling",
+    "title_odia": "ମତାମତ ଓ କାହାଣୀ କହିବା",
+    "description": "Speak in longer turns: share opinions, agree and disagree politely, and tell stories fluently.",
+    "category": "fluency",
+    "level": "intermediate",
+    "icon": "💬",
+    "course_instructions": "Push for fluency over perfection. Let the learner speak for 30 to 60 seconds before correcting, then note the two or three most important fixes.",
+    "lessons": [
+      {
+        "title": "Giving Your Opinion",
+        "title_odia": "ନିଜ ମତ ଦେବା",
+        "objective": "Express opinions with reasons.",
+        "key_phrases": [
+          {
+            "en": "In my opinion, ...",
+            "or": "ମୋ ମତରେ, ..."
+          },
+          {
+            "en": "I think online classes are useful because ...",
+            "or": "ମୋର ମନେହୁଏ ଅନଲାଇନ୍ କ୍ଲାସ୍ ଉପଯୋଗୀ କାରଣ ..."
+          },
+          {
+            "en": "I'm not sure, but I feel ...",
+            "or": "ମୁଁ ନିଶ୍ଚିତ ନୁହେଁ, କିନ୍ତୁ ମୋର ଲାଗେ ..."
+          },
+          {
+            "en": "The main reason is ...",
+            "or": "ମୁଖ୍ୟ କାରଣ ହେଲା ..."
+          }
+        ],
+        "vocabulary": [
+          {
+            "en": "reason",
+            "or": "କାରଣ"
+          },
+          {
+            "en": "opinion",
+            "or": "ମତ"
+          },
+          {
+            "en": "because",
+            "or": "କାରଣ"
+          }
+        ],
+        "duration_min": 10,
+        "roleplay_scenario": "Ask: 'Should students use mobile phones in school?' and let the learner argue."
+      },
+      {
+        "title": "Agreeing and Disagreeing Politely",
+        "title_odia": "ଭଦ୍ର ଭାବେ ସହମତ ଓ ଅସହମତ ହେବା",
+        "objective": "Agree, disagree and find middle ground without sounding rude.",
+        "key_phrases": [
+          {
+            "en": "I completely agree.",
+            "or": "ମୁଁ ସମ୍ପୂର୍ଣ୍ଣ ସହମତ।"
+          },
+          {
+            "en": "I see your point, but ...",
+            "or": "ମୁଁ ଆପଣଙ୍କ କଥା ବୁଝୁଛି, କିନ୍ତୁ ..."
+          },
+          {
+            "en": "I'm afraid I don't agree.",
+            "or": "କ୍ଷମା କରିବେ, ମୁଁ ସହମତ ନୁହେଁ।"
+          },
+          {
+            "en": "Maybe we're both right.",
+            "or": "ହୁଏତ ଆମେ ଦୁହେଁ ଠିକ୍।"
+          }
+        ],
+        "vocabulary": [
+          {
+            "en": "agree",
+            "or": "ସହମତ ହେବା"
+          },
+          {
+            "en": "disagree",
+            "or": "ଅସହମତ ହେବା"
+          },
+          {
+            "en": "compromise",
+            "or": "ବୁଝାମଣା"
+          }
+        ],
+        "duration_min": 10
+      },
+      {
+        "title": "Telling a Story",
+        "title_odia": "କାହାଣୀ କହିବା",
+        "objective": "Tell a personal story in order using linking words.",
+        "key_phrases": [
+          {
+            "en": "It happened last summer.",
+            "or": "ଏହା ଗତ ଗ୍ରୀଷ୍ମରେ ଘଟିଥିଲା।"
+          },
+          {
+            "en": "First ..., then ..., after that ...",
+            "or": "ପ୍ରଥମେ ..., ତା'ପରେ ..., ସେଥିପରେ ..."
+          },
+          {
+            "en": "Suddenly, the lights went out.",
+            "or": "ହଠାତ୍ ଲାଇଟ୍ ଚାଲିଗଲା।"
+          },
+          {
+            "en": "In the end, everything was fine.",
+            "or": "ଶେଷରେ ସବୁ ଠିକ୍ ହୋଇଗଲା।"
+          }
+        ],
+        "vocabulary": [
+          {
+            "en": "suddenly",
+            "or": "ହଠାତ୍"
+          },
+          {
+            "en": "finally",
+            "or": "ଶେଷରେ"
+          },
+          {
+            "en": "meanwhile",
+            "or": "ଏହି ସମୟରେ"
+          }
+        ],
+        "duration_min": 10,
+        "roleplay_scenario": "Ask the learner to tell you about the most memorable festival they celebrated, such as Rath Yatra or Durga Puja.",
+        "tutor_instructions": "Check past tense consistency and encourage linking words."
+      }
+    ]
+  },
+  {
+    "slug": "public-speaking-presentations",
+    "title": "Public Speaking & Presentations",
+    "title_odia": "ଜନସମକ୍ଷ ବକ୍ତବ୍ୟ ଓ ଉପସ୍ଥାପନା",
+    "description": "Give a short speech or presentation, handle questions, and speak with confidence on stage or in group discussions.",
+    "category": "fluency",
+    "level": "advanced",
+    "icon": "🎤",
+    "course_instructions": "Coach like a speaking trainer: structure, pace, pauses, clarity and confidence. Ask the learner to deliver short talks and give specific, encouraging feedback.",
+    "lessons": [
+      {
+        "title": "Opening and Closing a Talk",
+        "title_odia": "ବକ୍ତବ୍ୟ ଆରମ୍ଭ ଓ ଶେଷ",
+        "objective": "Start strongly and end memorably.",
+        "key_phrases": [
+          {
+            "en": "Good morning, everyone. Today I'd like to talk about ...",
+            "or": "ସମସ୍ତଙ୍କୁ ସୁପ୍ରଭାତ। ଆଜି ମୁଁ ... ବିଷୟରେ କହିବାକୁ ଚାହେଁ।"
+          },
+          {
+            "en": "Let me start with a question.",
+            "or": "ମୁଁ ଏକ ପ୍ରଶ୍ନରୁ ଆରମ୍ଭ କରୁଛି।"
+          },
+          {
+            "en": "To sum up, ...",
+            "or": "ସଂକ୍ଷେପରେ, ..."
+          },
+          {
+            "en": "Thank you for listening.",
+            "or": "ଶୁଣିଥିବାରୁ ଧନ୍ୟବାଦ।"
+          }
+        ],
+        "vocabulary": [
+          {
+            "en": "audience",
+            "or": "ଶ୍ରୋତା"
+          },
+          {
+            "en": "summary",
+            "or": "ସାରାଂଶ"
+          },
+          {
+            "en": "confident",
+            "or": "ଆତ୍ମବିଶ୍ୱାସୀ"
+          }
+        ],
+        "duration_min": 10,
+        "roleplay_scenario": "Ask the learner to give a one-minute talk introducing their hometown."
+      },
+      {
+        "title": "Presenting Ideas Clearly",
+        "title_odia": "ସ୍ପଷ୍ଟ ଭାବେ ବିଚାର ଉପସ୍ଥାପନ",
+        "objective": "Organise points and guide listeners with signposting.",
+        "key_phrases": [
+          {
+            "en": "I have three main points.",
+            "or": "ମୋର ତିନୋଟି ମୁଖ୍ୟ କଥା ଅଛି।"
+          },
+          {
+            "en": "Moving on to my next point ...",
+            "or": "ମୋର ପରବର୍ତ୍ତୀ କଥାକୁ ଯାଉଛି ..."
+          },
+          {
+            "en": "As you can see on this slide ...",
+            "or": "ଆପଣ ଏହି ସ୍ଲାଇଡ୍‌ରେ ଦେଖିପାରୁଥିବା ପରି ..."
+          },
+          {
+            "en": "Let me give you an example.",
+            "or": "ମୁଁ ଏକ ଉଦାହରଣ ଦେଉଛି।"
+          }
+        ],
+        "vocabulary": [
+          {
+            "en": "point",
+            "or": "କଥା / ବିଷୟ"
+          },
+          {
+            "en": "example",
+            "or": "ଉଦାହରଣ"
+          },
+          {
+            "en": "slide",
+            "or": "ସ୍ଲାଇଡ୍"
+          }
+        ],
+        "duration_min": 10
+      },
+      {
+        "title": "Group Discussions and Q&A",
+        "title_odia": "ଗୋଷ୍ଠୀ ଆଲୋଚନା ଓ ପ୍ରଶ୍ନୋତ୍ତର",
+        "objective": "Enter a group discussion politely and answer questions calmly.",
+        "key_phrases": [
+          {
+            "en": "If I may add to that ...",
+            "or": "ମୁଁ ଏଥିରେ କିଛି ଯୋଡ଼ିପାରିଲେ ..."
+          },
+          {
+            "en": "That's a great question.",
+            "or": "ଏହା ଏକ ଭଲ ପ୍ରଶ୍ନ।"
+          },
+          {
+            "en": "Let me think about that for a second.",
+            "or": "ମୋତେ ଟିକେ ଭାବିବାକୁ ଦିଅନ୍ତୁ।"
+          },
+          {
+            "en": "To build on what she said ...",
+            "or": "ସେ ଯାହା କହିଲେ ତାକୁ ଆଗକୁ ନେଇ ..."
+          }
+        ],
+        "vocabulary": [
+          {
+            "en": "discussion",
+            "or": "ଆଲୋଚନା"
+          },
+          {
+            "en": "interrupt",
+            "or": "ବାଧା ଦେବା"
+          },
+          {
+            "en": "conclude",
+            "or": "ସମାପ୍ତ କରିବା"
+          }
+        ],
+        "duration_min": 10,
+        "roleplay_scenario": "Run a mini group discussion on 'Is social media good for youth?'. You play two other participants."
+      }
+    ]
+  },
+  {
+    "slug": "idioms-and-natural-english",
+    "title": "Idioms & Natural English",
+    "title_odia": "ମୁହାବରା ଓ ସ୍ୱାଭାବିକ ଇଂରାଜୀ",
+    "description": "Sound natural with common idioms, phrasal verbs and everyday expressions native speakers use.",
+    "category": "fluency",
+    "level": "advanced",
+    "icon": "✨",
+    "course_instructions": "Explain each expression simply, compare it to an Odia equivalent where one exists, and have the learner use it in their own sentence.",
+    "lessons": [
+      {
+        "title": "Common Phrasal Verbs",
+        "title_odia": "ସାଧାରଣ ଫ୍ରେଜାଲ୍ ଭର୍ବ",
+        "objective": "Use everyday phrasal verbs naturally.",
+        "key_phrases": [
+          {
+            "en": "Please turn off the fan.",
+            "or": "ଦୟାକରି ପଙ୍ଖା ବନ୍ଦ କରନ୍ତୁ।"
+          },
+          {
+            "en": "I'll pick you up at seven.",
+            "or": "ମୁଁ ତୁମକୁ ସାତଟାରେ ନେବାକୁ ଆସିବି।"
+          },
+          {
+            "en": "Don't give up.",
+            "or": "ହାର ମାନନ୍ତୁ ନାହିଁ।"
+          },
+          {
+            "en": "Let's look into the problem.",
+            "or": "ଚାଲନ୍ତୁ ସମସ୍ୟାଟି ଯାଞ୍ଚ କରିବା।"
+          }
+        ],
+        "vocabulary": [
+          {
+            "en": "find out",
+            "or": "ଜାଣିବା"
+          },
+          {
+            "en": "carry on",
+            "or": "ଜାରି ରଖିବା"
+          },
+          {
+            "en": "put off",
+            "or": "ସ୍ଥଗିତ କରିବା"
+          }
+        ],
+        "duration_min": 10
+      },
+      {
+        "title": "Everyday Idioms",
+        "title_odia": "ଦୈନନ୍ଦିନ ମୁହାବରା",
+        "objective": "Understand and use popular idioms.",
+        "key_phrases": [
+          {
+            "en": "It's a piece of cake.",
+            "or": "ଏହା ବହୁତ ସହଜ।"
+          },
+          {
+            "en": "Break a leg!",
+            "or": "ଶୁଭକାମନା!"
+          },
+          {
+            "en": "I'm feeling under the weather.",
+            "or": "ମୋ ଦେହ ଟିକେ ଖରାପ ଲାଗୁଛି।"
+          },
+          {
+            "en": "Let's call it a day.",
+            "or": "ଆଜି ପାଇଁ ଏତିକି ଥାଉ।"
+          }
+        ],
+        "vocabulary": [
+          {
+            "en": "idiom",
+            "or": "ମୁହାବରା"
+          },
+          {
+            "en": "meaning",
+            "or": "ଅର୍ଥ"
+          }
+        ],
+        "duration_min": 10,
+        "tutor_instructions": "Warn against overusing idioms in formal settings. Mention 'Break a leg' means good luck, not harm."
+      },
+      {
+        "title": "Fillers, Softeners and Natural Replies",
+        "title_odia": "ସ୍ୱାଭାବିକ ଉତ୍ତର ଓ କୋମଳ ଶବ୍ଦ",
+        "objective": "Use natural fillers and short replies to sound relaxed.",
+        "key_phrases": [
+          {
+            "en": "Well, actually ...",
+            "or": "ଆଚ୍ଛା, ପ୍ରକୃତରେ ..."
+          },
+          {
+            "en": "Sounds good!",
+            "or": "ଠିକ୍ ଅଛି, ଭଲ!"
+          },
+          {
+            "en": "No worries.",
+            "or": "କିଛି ଚିନ୍ତା ନାହିଁ।"
+          },
+          {
+            "en": "I was wondering if you could ...",
+            "or": "ମୁଁ ଭାବୁଥିଲି ଆପଣ ... କରିପାରିବେ କି ..."
+          }
+        ],
+        "vocabulary": [
+          {
+            "en": "by the way",
+            "or": "ଆଉ ଗୋଟିଏ କଥା"
+          },
+          {
+            "en": "anyway",
+            "or": "ଯାହାହେଉ"
+          },
+          {
+            "en": "kind of",
+            "or": "କିଛି ମାତ୍ରାରେ"
+          }
+        ],
+        "duration_min": 10
+      }
+    ]
+  }
+]
