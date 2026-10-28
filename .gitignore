@@ -14,15 +14,15 @@ lerna-debug.log*
 !.env.example
 
 # Database & SQLite files
-data/*.sqlite
-data/*.sqlite-shm
-data/*.sqlite-wal
-data/*.db
-data/*.db-shm
-data/*.db-wal
-*.sqlite
-*.sqlite3
-*.db
+# data/*.sqlite
+# data/*.sqlite-shm
+# data/*.sqlite-wal
+# data/*.db
+# data/*.db-shm
+# data/*.db-wal
+# *.sqlite
+# *.sqlite3
+# *.db
 
 # Logs & debugging
 logs/
